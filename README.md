@@ -31,9 +31,5 @@ INPUT: tRuE FaLsE & ! fAlSe |
 OUTPUT: TRUE
 ```
 
-## Credits
-Project developed by **Radoslav Gadzhovski** as part of coursework for the University of Greenwich.
-
-
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
